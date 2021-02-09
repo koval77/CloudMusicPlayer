@@ -1,0 +1,30 @@
+{
+  "name": "cloudmusicplayer",
+  "version": "1.0.0",
+  "description": "This app will play your music, categorise it by mood and let you play specific music list depending on what mood you are on today.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koval77/CloudMusicPlayer.git"
+  },
+  "keywords": [
+    "music",
+    "player",
+    "player",
+    "music",
+    "app"
+  ],
+  "author": "Wojtek Kozlowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koval77/CloudMusicPlayer/issues"
+  },
+  "homepage": "https://github.com/koval77/CloudMusicPlayer#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
